@@ -1,4 +1,4 @@
-# 📄 RAG PDF ChatBot
+# 📄 Chatbot
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot that lets you upload one or multiple PDFs and chat with them using **Mistral AI**. Built with LangChain, ChromaDB, HuggingFace Embeddings, and Streamlit.
 
